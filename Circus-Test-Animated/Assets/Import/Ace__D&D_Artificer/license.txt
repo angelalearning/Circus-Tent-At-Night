@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ace: D&D Artificer
+* source:	https://sketchfab.com/3d-models/ace-dd-artificer-8573be597a2a4a7189b8c3375eba9b42
+* author:	Cianon (https://sketchfab.com/Cianon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ace: D&D Artificer" (https://sketchfab.com/3d-models/ace-dd-artificer-8573be597a2a4a7189b8c3375eba9b42) by Cianon (https://sketchfab.com/Cianon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
